@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a80e631-353f-4bb5-94c0-fc626c119da6" name="Default Changelist" comment="" />
+    <list default="true" id="7a80e631-353f-4bb5-94c0-fc626c119da6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Card/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Card/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Card/GiftCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Card/ICharge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Card/PaymentCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnlineAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -16,8 +36,20 @@
     </option>
   </component>
   <component name="ProjectId" id="1kkAA9ZMfoGmZIeGaPDjvcVRZNA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
@@ -32,5 +64,15 @@
       <updated>1606234069695</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="243" y="-789" width="835" height="669" key="#Project_Structure" timestamp="1606236373711">
+      <screen x="-120" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="243" y="-789" width="835" height="669" key="#Project_Structure/0.23.1280.709/-120.-1057.1920.1057@-120.-1057.1920.1057" timestamp="1606236373711" />
+    <state x="505" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1606236943369">
+      <screen x="-120" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="505" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1280.709/-120.-1057.1920.1057@-120.-1057.1920.1057" timestamp="1606236943369" />
   </component>
 </project>
